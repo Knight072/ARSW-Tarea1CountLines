@@ -1,0 +1,43 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/Usuario/IdeaProjects/CountLines/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Usuario/IdeaProjects/CountLines/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CountLines 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'CountLines 1.0-SNAPSHOT API'
+edu.escuelaing.arsw.countlines
+C:\Users\Usuario\IdeaProjects\CountLines\src\main\java = 1718216387397
+C:\Users\Usuario\IdeaProjects\CountLines\target\site\apidocs\allclasses-index.html = 1718247657743
+C:\Users\Usuario\IdeaProjects\CountLines\target\site\apidocs\allpackages-index.html = 1718247657786
+C:\Users\Usuario\IdeaProjects\CountLines\target\site\apidocs\copy.svg = 1718247657939
+C:\Users\Usuario\IdeaProjects\CountLines\target\site\apidocs\element-list = 1718247657498
+C:\Users\Usuario\IdeaProjects\CountLines\target\site\apidocs\help-doc.html = 1718247657910
+C:\Users\Usuario\IdeaProjects\CountLines\target\site\apidocs\index-all.html = 1718247657877
+C:\Users\Usuario\IdeaProjects\CountLines\target\site\apidocs\index.html = 1718247657894
+C:\Users\Usuario\IdeaProjects\CountLines\target\site\apidocs\link.svg = 1718247657947
+C:\Users\Usuario\IdeaProjects\CountLines\target\site\apidocs\member-search-index.js = 1718247657804
+C:\Users\Usuario\IdeaProjects\CountLines\target\site\apidocs\module-search-index.js = 1718247657794
+C:\Users\Usuario\IdeaProjects\CountLines\target\site\apidocs\overview-tree.html = 1718247657708
+C:\Users\Usuario\IdeaProjects\CountLines\target\site\apidocs\package-search-index.js = 1718247657797
+C:\Users\Usuario\IdeaProjects\CountLines\target\site\apidocs\script.js = 1718247657934
+C:\Users\Usuario\IdeaProjects\CountLines\target\site\apidocs\search-page.js = 1718247657984
+C:\Users\Usuario\IdeaProjects\CountLines\target\site\apidocs\search.html = 1718247657888
+C:\Users\Usuario\IdeaProjects\CountLines\target\site\apidocs\search.js = 1718247657967
+C:\Users\Usuario\IdeaProjects\CountLines\target\site\apidocs\stylesheet.css = 1718247657918
+C:\Users\Usuario\IdeaProjects\CountLines\target\site\apidocs\tag-search-index.js = 1718247657808
+C:\Users\Usuario\IdeaProjects\CountLines\target\site\apidocs\type-search-index.js = 1718247657801
