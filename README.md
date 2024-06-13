@@ -41,11 +41,11 @@ mvn test
 
 ## Productivity
 
-    The development of this project took approximately X hours, with a total of Y LOC, resulting in a productivity of Z LOC/h.
+    The development of this project took approximately 2 hours, with a total of 246 LOC, resulting in a productivity of 123 LOC/h.
 
 ## Title
 
-Count Lines of Code Program
+LOC Counting
 
 ## Author
 
