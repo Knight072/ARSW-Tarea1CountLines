@@ -8,7 +8,6 @@ A command-line program to count the lines of code in Java source files. This pro
 - [Usage](#usage)
 - [Development](#development)
 - [Testing](#testing)
-- [License](#license)
 
 ## Installation
 
@@ -31,7 +30,7 @@ To count lines of code, run the following command:
 java -cp target/CountLines-1.0-SNAPSHOT.jar edu.escuelaing.arsw.countlines.Main <phy|loc> <file or directory>
 ```
 
-##Testing
+## Testing
 
 Run the tests using Maven:
 ```bash
