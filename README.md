@@ -29,37 +29,11 @@ To count lines of code, run the following command:
 
 ```bash
 java -cp target/CountLines-1.0-SNAPSHOT.jar edu.escuelaing.arsw.countlines.Main <phy|loc> <file or directory>
+```
 
+##Testing
 
-
-+------------------+
-|    Main          |
-+------------------+
-| - main(args: String[]) |
-+------------------+
-
-+------------------------+
-|   LineCounter          |
-+------------------------+
-| - fileProcessor: FileProcessor     |
-| - directoryProcessor: DirectoryProcessor  |
-+------------------------+
-| + LineCounter(fileProcessor: FileProcessor, directoryProcessor: DirectoryProcessor) |
-| + countLines(fileOrDir: File, mode: String): int |
-+------------------------+
-
-+------------------------+
-|   FileProcessor        |
-+------------------------+
-| + countPhysicalLines(file: File): int |
-| + countLogicalLines(file: File): int  |
-+------------------------+
-
-+------------------------+
-|  DirectoryProcessor    |
-+------------------------+
-| + findJavaFiles(root: File): List<File> |
-+------------------------+
-| - findJavaFilesRecursively(file: File, javaFiles: List<File>): void |
-+------------------------+
-
+Run the tests using Maven:
+```bash
+mvn test
+```
